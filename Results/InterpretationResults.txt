@@ -1,0 +1,8 @@
+NOTE:
+
+Pink pixels represent the ROAD (our aim of segmentation)
+
+Red is the Background
+
+Black pixels in the actual image are just noise for us as our primary aim of the project is to segment the Road region
+hence, black pixels are not visible in the predicted image.
