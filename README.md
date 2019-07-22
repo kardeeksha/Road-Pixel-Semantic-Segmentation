@@ -34,3 +34,4 @@ hence, black pixels are not visible in the predicted image.)
 
 # OUTPUT by the program and ACTUAL Ground truth images:
 
+![Example](/Results/Example2.PNG)
